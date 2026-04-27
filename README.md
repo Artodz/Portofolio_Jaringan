@@ -33,10 +33,5 @@ Fresh graduate SMK jurusan TJKT dengan minat di bidang jaringan komputer dan tro
 
 ---
 
-## 📂 File Portofolio
-📄 [Download Portofolio](./Portofolio_Jaringan.pdf)
-
----
-
 ## 📞 Kontak
 Email: (isi email kamu)
