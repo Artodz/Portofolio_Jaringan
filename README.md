@@ -34,5 +34,5 @@ Fresh graduate SMK jurusan TJKT dengan minat di bidang jaringan komputer dan tro
 ---
 
 ## 📞 Kontak
-Email: wedaa2169@gmail.com
-No (WA): 087764476030
+ - Email: wedaa2169@gmail.com
+ - No (WA): 087764476030
